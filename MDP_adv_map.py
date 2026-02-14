@@ -18,8 +18,8 @@ mu_vm = 1.0      # Service rate at VM
 mu_cont = 1.0    # Service rate at containers
 
 # Simulation parameters
-simulation_time = 10000
-burn_in = 1000
+simulation_time = 60000
+burn_in = 5000
 lambda_min = 1
 lambda_max = 10
 
@@ -675,3 +675,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
