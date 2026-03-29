@@ -1,6 +1,6 @@
 This repository contains the full implementation used in the study:
 
-“Hierarchical Dispatching: Exact MDP Optima and JSQ Failure Regions.”
+“Hierarchical Dispatching in VM–Container Systems: Exact MDP Benchmarking and Simulation-Based Diagnostics of JSQ”
 
 The code computes an exact optimal policy for a hierarchical VM–container system using dynamic programming and compares it to the classical Join-the-Shortest-Queue (JSQ) heuristic through structural diagnostics and simulation.
 
@@ -120,4 +120,4 @@ All tables and figures reported in the manuscript can be regenerated from the ex
 10. Citation
 If you use this code, please cite:
   Houmairi, A., et al.
-  Hierarchical Dispatching: Exact MDP Optima and JSQ Failure Regions.
+  Hierarchical Dispatching in VM–Container Systems: Exact MDP Benchmarking and Simulation-Based Diagnostics of JSQ.
